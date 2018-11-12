@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA;EACE,iBAAsB,EACvB;;AACD;EACE,iBAAgB;EAChB,qBAAa;EAAb,cAAa,EACd","file":"styles.css","sourcesContent":[".testing {\n  width: percentage(5/7);\n}\nbody{\n  background: pink;\n  display: flex;\n}"]}
